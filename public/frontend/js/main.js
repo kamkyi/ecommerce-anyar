@@ -1,6 +1,6 @@
 /*  ---------------------------------------------------
-    Template Name: Ogani
-    Description:  Ogani eCommerce  HTML Template
+    Template Name: Anyar
+    Description:  Anyar eCommerce  HTML Template
     Author: Colorlib
     Author URI: https://colorlib.com
     Version: 1.0

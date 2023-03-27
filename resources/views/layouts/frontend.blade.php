@@ -2,11 +2,11 @@
 <html lang="zxx">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Ogani Template" />
-    <meta name="keywords" content="Ogani, unica, creative, html" />
+    <meta name="description" content="Anyar Template" />
+    <meta name="keywords" content="Anyar, unica, creative, html" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Ogani | Template</title>
+    <title>Anyar | Template</title>
 
     <!-- Google Font -->
     <link
@@ -35,7 +35,7 @@
     <div class="humberger__menu__overlay"></div>
     <div class="humberger__menu__wrapper">
       <div class="humberger__menu__logo">
-        <a href="#"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
+        <a href="#"><img src="{{ asset('frontend/img/logo-anyar.png') }}" alt="" /></a>
       </div>
       <div class="humberger__menu__cart">
         <ul>
@@ -101,8 +101,8 @@
       </div>
       <div class="humberger__menu__contact">
         <ul>
-          <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-          <li>Free Shipping for all Order of $99</li>
+          <li><i class="fa fa-envelope"></i> waihynhtun1994@gmail.com</li>
+          <li>Free Shipping for all Order of 20000 ks</li>
         </ul>
       </div>
     </div>
@@ -116,8 +116,8 @@
             <div class="col-lg-6 col-md-6">
               <div class="header__top__left">
                 <ul>
-                  <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-                  <li>Free Shipping for all Order of $99</li>
+                  <li><i class="fa fa-envelope"></i> waihynhtun1994@gmail.com</li>
+                  <li>Free Shipping for all Order of 20000 ks</li>
                 </ul>
               </div>
             </div>
@@ -164,7 +164,7 @@
         <div class="row">
           <div class="col-lg-3">
             <div class="header__logo">
-              <a href="/"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
+              <a href="/"><img src="{{ asset('frontend/img/logo-anyar.png') }}" alt="" /></a>
             </div>
           </div>
           <div class="col-lg-6">
@@ -224,7 +224,7 @@
                   <i class="fa fa-phone"></i>
                 </div>
                 <div class="hero__search__phone__text">
-                  <h5>+65 11.188.888</h5>
+                  <h5>+66 0640943261</h5>
                   <span>support 24/7 time</span>
                 </div>
               </div>
@@ -244,12 +244,12 @@
           <div class="col-lg-3 col-md-6 col-sm-6">
             <div class="footer__about">
               <div class="footer__about__logo">
-                <a href="./index.html"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
+                <a href="./index.html"><img src="{{ asset('frontend/img/logo-anyar.png') }}" alt="" /></a>
               </div>
               <ul>
-                <li>Address: 60-49 Road 11378 New York</li>
-                <li>Phone: +65 11.188.888</li>
-                <li>Email: hello@colorlib.com</li>
+                <li>Bangkok / Suan Luang 615-306 / Lumpini 77</li>
+                <li>Phone: +66 0640943261</li>
+                <li>Email: waihynhtun1994@gmail.com</li>
               </ul>
             </div>
           </div>
